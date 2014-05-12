@@ -1,0 +1,9 @@
+LifeMusic 56 8 61 8 65 8 61 8 63 8 68 8
+GrowMusic 37 4 44 4 49 4 38 4 45 4 50 4 39 4 46 4 51 4
+CoinMusic 66 1
+PipeMusic 13 0 13 8 1 0 1 16 13 0 13 8 1 0 1 16 13 0 13 8 1 0 1 16
+FireMusic 41 1 46 1
+HitMusic 25 2 13 3 1 4 25 1 13 2 1 3
+DeadMusic 25 3 13 4 1 6
+NoteMusic 1 3 13 4 1 6
+StarMusic 37 4 41 4 44 4 49 4 53 4 56 4 61 4 65 4 68 4 73 4
